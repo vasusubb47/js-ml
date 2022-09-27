@@ -1,0 +1,11 @@
+{
+  "name": "@js-ml/server",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "@js-ml/logs": "1.0.0",
+    "@js-ml/utils": "1.0.0"
+  },
+  "license": "MIT",
+  "author": "Vasu Subbannavar"
+}

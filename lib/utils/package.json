@@ -1,0 +1,7 @@
+{
+  "name": "@js-ml/utils",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Vasu Subbannavar",
+  "license": "MIT"
+}
